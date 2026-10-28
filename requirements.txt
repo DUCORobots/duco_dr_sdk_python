@@ -1,0 +1,2 @@
+# Thrift runtime compatibility dependency (lib/thrift).
+six>=1.16,<2
